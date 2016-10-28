@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "Microsoft.CodeAnalysis": "2.0.0-beta4"
+    },
+    "frameworks": {
+        "net461": {}
+    },
+    "runtimes": {
+        "win": {}
+    }
+}
